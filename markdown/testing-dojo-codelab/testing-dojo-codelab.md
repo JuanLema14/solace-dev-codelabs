@@ -14,6 +14,7 @@ Testing codelab
 Duration: 0:02:00
 
 Para empezar a hacer los diferentes tipos de pruebas/test, vamos a crear un nuevo proyecto en Android Studio
+
 ![Screen caption](img/empty.png)
 
 seleccionaremos una nueva aplicacion vacia, para luego crear nuestro proyecto con el nombre "SimpleTestProject",
@@ -34,6 +35,7 @@ Para este proyecto, inicialmente instalaremos algunas dependencias (estas pueden
     }
 
 Para que las dependencias queden correctamente instaladas recuerde hacer click en el boton:
+
 ![Screen caption](img/gradle_btn.png)
 
 
@@ -125,9 +127,11 @@ y listo! su clase se debe ver de la siguiente manera:
 Duration: 0:03:00
 
 Con todo preparado, ya podremos testear para ejecutar el test solo debemos dar click derecho en el nobre de nuestro test
+
 ![Screen caption](img/run_test.png)
 
 si todo ha salido bien, se abrirá la terminal y nos enseñara el resultado del test.
+
 ![Screen caption](img/run_response.png)
 
 para saber que nuestro test esta funcionando de manera correcto, solo debemos hacer que nuestra logica falle!
